@@ -1,5 +1,8 @@
 _repo: The-Country-House_2772
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -16,6 +19,8 @@ description: Go to top; Part I Chapter I; A Party at Worsted Skeynes; Chapter II
   IX; Mr. Paramor Disposes; Chapter X; At Blafard's; Part II; Chapter I; Gregory Reopens
   the Campaign; Chapter II; Continued Influence of the Reverend Hussell Barter; Chapter
   III; The Sinister Night; Chapter IV; Mr. Pendyce's head; Chapter V; Rector and Squire.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2772#The-Country-House
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
